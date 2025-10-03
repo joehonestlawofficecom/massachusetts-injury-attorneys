@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://massachusetts-injury-attorneys.com/sitemap.xml
